@@ -7,3 +7,4 @@ target/classes/META-INF/MANIFEST.MF
 .settings/org.eclipse.m2e.core.prefs
 target/classes/META-INF/maven/TF-IDF/TF-IDF/pom.properties
 target/classes/META-INF/maven/TF-IDF/TF-IDF/pom.xml
+target/*
